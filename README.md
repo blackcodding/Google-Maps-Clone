@@ -1,7 +1,7 @@
 # Google-Maps-Clone 🌎
 
-- Build Google Map's clone by using HTML, CSS and Vanila js.
-- Searching the distance between two place and their route has also implemented.
+- Build Google Map's clone by using Mapbox, Geoloction API, Mapbox plugins.
+- Searching the distance between two place and their route has implemented.
 - Proper route guidence is provided for each trafic, driving, walking route.
 - Implemented zoom in and zoom out and compas to see the right direction.
 
